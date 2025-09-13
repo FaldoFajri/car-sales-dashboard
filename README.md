@@ -19,9 +19,4 @@ The dashboard provides insights into sales performance, revenue, profit, and uni
 
 ## 🔗 Live Dashboard
 👉 [View Dashboard Here](https://lookerstudio.google.com/s/v-Lh0OsjslU)  
-
-## 📂 Dataset
-*(Optional — only if you can share it)*  
-- Source: `car_sales.csv`  
-
 ---
